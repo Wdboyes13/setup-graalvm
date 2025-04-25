@@ -1,6 +1,6 @@
 name: Setup GraalVM action
 description: Set up a specific version of GraalVM and add the command line tools to PATH
-author: Alan Tai
+author: Wdboyes13
 branding:
   icon: box
   color: orange
